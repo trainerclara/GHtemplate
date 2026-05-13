@@ -13,11 +13,7 @@ This is a simple **Markdown** example in GitHub.
 
 https://www.microsoft.com
 
-## 🖼️ Section 3: Images
-
-https://via.placeholder.com/150
-
-## 💻 Section 4: Code
+## 💻 Section 3: Code
 
 Inline: `print("Hello world")`
 
